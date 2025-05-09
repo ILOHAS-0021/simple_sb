@@ -10,7 +10,7 @@ pipeline {
         GITEMAIL = 'ilohas0021@naver.com' 
         GITWEBADD = 'https://github.com/ILOHAS-0021/simple_sb.git'
         GITSSHADD = 'git@github.com:ILOHAS-0021/simple_sb.git'
-        GITCREDENTIAL = 'git_credentials'
+        GITCREDENTIAL = 'github_credentials'
         
         DOCKERHUB = 'ilohas21/spring'
         DOCKERHUBCREDENTIAL = 'docker_credentials'
