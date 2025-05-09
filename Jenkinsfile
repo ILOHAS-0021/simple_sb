@@ -12,7 +12,7 @@ pipeline {
         GITSSHADD = 'git@github.com:ILOHAS-0021/simple_sb.git'
         GITCREDENTIAL = 'git_credentials'
         
-        DOCKERHUB = 'ilohas0021/spring'
+        DOCKERHUB = 'ilohas21/spring'
         DOCKERHUBCREDENTIAL = 'docker_credentials'
     }
 
